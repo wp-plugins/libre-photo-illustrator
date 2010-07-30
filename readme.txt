@@ -38,3 +38,7 @@ english, german and spanish
 == Screenshots ==
 
 1. Free to use OpenContent images in your new sidebar widget
+
+2. Four images organized in two rows and two columns
+
+3. The number of displayed images is configurable in the backend.
