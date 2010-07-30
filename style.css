@@ -1,0 +1,28 @@
+.lpi-container {
+	margin-top: 10px;
+	text-align: left;
+}
+
+.lpi-element {
+}
+
+.lpi-element20 {
+	display: inline;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.lpi-element21 {
+	display: inline;
+}
+
+
+.lpi-container a {
+	text-decoration: none;
+}
+
+.lpi-container .lpi-img {
+	width: 80px;
+	height: 80px;
+	border: 1px solid silver;
+}
