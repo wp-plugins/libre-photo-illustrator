@@ -1,6 +1,6 @@
 === Libre Photo Illustrator ===
 Contributors: thomaz21
-Version: 0.5.0
+Version: 0.6.0
 Tags: photos photoblog libre free opencontent ccbysa illustration illustrator sidebar widget
 Requires at least: 2.5
 Tested up to: 3.0
